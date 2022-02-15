@@ -13,3 +13,5 @@ public class WellOfIdeadEasy {
         }
     }
 }
+
+//dodanie komentarza
